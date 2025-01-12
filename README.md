@@ -23,3 +23,4 @@ A comprehensive data analysis project exploring **anime viewing patterns** and d
 - Nested Sub query 
 - SQL Array
 
+<img width="1239" alt="anime" src="https://github.com/user-attachments/assets/ab1655da-b0d9-4353-abad-fa2c618e18a1" />
